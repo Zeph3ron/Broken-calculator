@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">The Broken Calculator</string>
+
+    <!--Welcome dialog messages-->
+    <string name="welcomeDialog_1">Hey there! Welcome to my calculator app! The next generation calculator!</string>
+    <string name="welcomeDialog_2">I have been working on this app for days…but there are still some bugs…</string>
+    <string name="welcomeDialog_3">For some reasons the app cannot be debugged, all fixes must now happen from inside the app.</string>
+    <string name="welcomeDialog_4">Would you mind helping me out fixing it?</string>
+    <string name="welcomeDialog_5">Great Thanks! Start by trying to fiddle around a little bit, see what is broken.</string>
+
+    <!--First puzzle dialog messages-->
+    <string name="firstPuzzle_startNine">Hey! That 9 button is in the wrong position..but I cannot fix it from code…</string>
+    <string name="firstPuzzle_startOne">Hey! That 1 button is in the wrong position..but I cannot fix it from code…</string>
+    <string name="firstPuzzle_2">Could you try to find a way to fix it… just try something out, please…</string>
+    <string name="firstPuzzle_solved_1">Hey you fixed the positions of all the buttons! Thanks!</string>
+
+
+    <!--Second puzzle dialog messages-->
+    <string name="secondPuzzle_1">That button is not printing the correct symbol... but wait... I dont believe it!</string>
+    <string name="secondPuzzle_2">That symbol.. Ive seen it before.. ive been having nightmares lately and that symbol keeps popping up...</string>
+    <string name="secondPuzzle_3">Yes, some dark force obviously doesn\'t want my amazing calculator to go public</string>
+    <string name="secondPuzzle_4">Please you have to fix that button ASAP before it is to late, money is at stake my friend!</string>
+    <string name="secondPuzzle_5">Thanks mate!</string>
+    <string name="secondPuzzle_solved_1">Hey you fixed that button, now it shows the correct symbol! You are the best.</string>
+
+    <!--Activate switch dialog messages-->
+    <string name="activateSwitch_1">That \'extra 1\' button…it has a strange colour…have we seen that colour before somewhere?</string>
+    <string name="activateSwitch_2">Me neither, but it is definitely important. Keep a lookout for that colour.</string>
+</resources>
